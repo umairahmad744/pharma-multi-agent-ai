@@ -1,0 +1,23 @@
+Good Manufacturing Practice (GMP) SOP
+
+Reactor Temperature Procedure
+
+1. Reactor temperature must remain between 35°C and 45°C.
+
+2. If temperature exceeds 50°C:
+
+- Stop the production batch.
+
+- Notify the quality assurance team.
+
+- Inspect cooling systems.
+
+- Record the event.
+
+- Initiate root cause analysis.
+
+3. Pressure must remain between 95 and 110 kPa.
+
+4. Yield below 80% is considered critical.
+
+5. Critical events must be escalated immediately.
