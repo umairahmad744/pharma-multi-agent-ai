@@ -1,0 +1,29 @@
+# ===== Python =====
+__pycache__/
+*.pyc
+*.pyo
+
+# ===== Environment =====
+.env
+.env.*
+
+# ===== Logs =====
+logs/
+*.log
+
+# ===== ML / AI =====
+*.pkl
+*.pt
+*.ckpt
+
+# ===== Vector DB =====
+vector_db/
+chroma.sqlite3
+
+# ===== Reports =====
+report.pdf
+
+# ===== OS / Editor =====
+.DS_Store
+.vscode/
+.idea/
